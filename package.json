@@ -1,0 +1,17 @@
+{
+  "name": "jest-eslint-node6-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest-cli": "^12.1.0"
+  },
+  "dependencies": {
+    "eslint": "^2.10.2"
+  }
+}
